@@ -1,1 +1,0 @@
-# Donor-choose-application-screening-using-LSTM
